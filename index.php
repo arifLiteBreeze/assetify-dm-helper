@@ -18,7 +18,7 @@ Copyright: © 2022 Aassetify.in. All rights reserved.
  * @reutrn assetify api base url
 */
 function assetyUrl() {
-	return 'https://assetify.in/api/';
+	return 'https://testsite.com/api/';
 }
 
 /**
